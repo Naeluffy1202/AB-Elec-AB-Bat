@@ -179,50 +179,6 @@ body {
     margin-bottom: 0.5rem;
   }
   
-  /* Témoignages */
-  .temoignages {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-  }
-  
-  .temoignages blockquote {
-    background: #f9f9f9;
-    padding: 15px 20px;
-    border-left: 5px solid #0f4c75;
-    font-style: italic;
-    position: relative;
-  }
-  
-  .temoignages footer {
-    text-align: right;
-    font-weight: bold;
-    margin-top: 10px;
-  }
-  
-  /* Footer */
-  footer {
-    background-color: #0f4c75;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-  }
-  
-  footer a {
-    color: #ffd700;
-    text-decoration: none;
-  }
-  
-  footer a:hover {
-    text-decoration: underline;
-  }
-  
-  .phone,
-  .email,
-  .siret {
-    margin: 0.5rem 0;
-  }
-  
   /* Bouton appel */
   .call-button {
     position: fixed;
